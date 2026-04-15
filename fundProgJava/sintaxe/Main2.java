@@ -1,4 +1,4 @@
-package fundProgJava;
+package sintaxe;
 import java.util.Scanner;
 
 public class Main2 {

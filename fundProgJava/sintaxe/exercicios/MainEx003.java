@@ -1,4 +1,4 @@
-package fundProgJava.exercicios;
+package sintaxe.exercicios;
 
 import java.util.Scanner;
 
